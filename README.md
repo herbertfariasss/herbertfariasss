@@ -8,6 +8,7 @@
 📍 Rio de Janeiro - RJ  
 
 ---
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-Developer-blue)
 ![HTML](https://img.shields.io/badge/HTML-Front--End-orange)
@@ -30,15 +31,6 @@
 - 🔢 Algoritmos e lógica de programação
 - 🌐 Projetos HTML, CSS e JavaScript
 - 📦 Exercícios da faculdade
-
----
-
-## 🛠️ Tecnologias
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
 
 ---
 
