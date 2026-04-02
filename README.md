@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Herbert Farias
 
-<!--
-**herbertfariasss/herbertfariasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Python, HTML, CSS e JavaScript  
+🚀 Em busca de estágio em desenvolvimento  
+📍 Rio de Janeiro - RJ  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Python
+- Programação Orientada a Objetos
+- Estrutura de Dados
+- Git e GitHub
+- Desenvolvimento Web
+
+---
+
+## 🚀 Projetos em destaque
+- 📝 Calculadora (Python)
+- 🔢 Algoritmos e lógica de programação
+- 🌐 Projetos HTML, CSS e JavaScript
+- 📦 Exercícios da faculdade
