@@ -1,3 +1,5 @@
+📎 LinkedIn: www.linkedin.com/in/herbert-farias-185a87378
+
 # 👋 Olá, eu sou Herbert Farias
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
