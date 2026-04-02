@@ -26,3 +26,8 @@
 - 🔢 Algoritmos e lógica de programação
 - 🌐 Projetos HTML, CSS e JavaScript
 - 📦 Exercícios da faculdade
+
+---
+## 📈 Estatísticas GitHub
+
+![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertfariasss&show_icons=true&theme=tokyonight)
