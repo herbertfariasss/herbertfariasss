@@ -1,42 +1,15 @@
-📎 LinkedIn: www.linkedin.com/in/herbert-farias-185a87378
+# Herbert Farias
 
-# 👋 Olá, eu sou Herbert Farias
+Sou estudante de Análise e Desenvolvimento de Sistemas no Rio de Janeiro e busco estágio em desenvolvimento de software. Desenvolvo projetos com Python, HTML, CSS e JavaScript. Atualmente estudo programação orientada a objetos, estruturas de dados e Git.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em Python, HTML, CSS e JavaScript  
-🚀 Em busca de estágio em desenvolvimento  
-📍 Rio de Janeiro - RJ  
+[Meu LinkedIn](https://www.linkedin.com/in/herbert-farias-185a87378/)
 
----
-## 🛠️ Tecnologias
+## Projetos em destaque
 
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![HTML](https://img.shields.io/badge/HTML-Front--End-orange)
-![CSS](https://img.shields.io/badge/CSS-Style-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
+- **Cadastro de Usuário.** Formulário responsivo com validação de senha no navegador. [Código](https://github.com/herbertfariasss/cadastro-de-usuario) · [Demo](https://herbertfariasss.github.io/cadastro-de-usuario/)
+- **Projeto Faculdade.** Site acadêmico responsivo com catálogo de cursos, páginas de aulas e fluxo demonstrativo de login e cadastro. [Código](https://github.com/herbertfariasss/Projeto-Faculdade) · [Demo](https://herbertfariasss.github.io/Projeto-Faculdade/)
+- **Calculadora Python.** Calculadora de terminal com menu interativo, operações aritméticas, potência e fatorial. [Código](https://github.com/herbertfariasss/calculadora-python-menu)
 
----
+## Em desenvolvimento
 
-## 📚 Atualmente estudando
-- Python
-- Programação Orientada a Objetos
-- Estrutura de Dados
-- Git e GitHub
-- Desenvolvimento Web
-
----
-
-## 🚀 Projetos em destaque
-- 📝 Calculadora (Python)
-- 🔢 Algoritmos e lógica de programação
-- 🌐 Projetos HTML, CSS e JavaScript
-- 📦 Exercícios da faculdade
-
----
-
-## 🎯 Foco atual
-- Conseguir estágio em desenvolvimento
-- Evoluir em Python e POO
-- Criar projetos web com HTML, CSS e JavaScript
-- Aprender GitHub na prática
-- Construir portfólio forte
+- **Prontuário Farmacêutico.** Protótipo em Python com interface inicial em Streamlit e uma base de autenticação e persistência local. [Código](https://github.com/herbertfariasss/prontuario-farmaceutico)
