@@ -18,7 +18,7 @@
 
 - Trabalho com manutenção e melhorias em sistemas **CRM e ERP** e com automações de processos de negócio.
 - Crio fluxos em **n8n** e integro plataformas por **APIs REST** e **webhooks**.
-- Desenvolvo agentes com a **API da OpenAI** e exploro orquestração de agentes de IA por playbooks.
+- Desenvolvo agentes com a **API da OpenAI** e uso **Claude**, **Claude Code** e a IDE **Antigravity** nos meus projetos, especialmente no orquestrador de agentes de IA por playbooks.
 - Trabalho com consultas e modelagem de dados em **PostgreSQL/Supabase**.
 
 Atuo na Eazytech desde **maio de 2026** e curso Análise e Desenvolvimento de Sistemas na **UNISUAM**.
@@ -47,6 +47,7 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**Ferramentas de IA no desenvolvimento:** Claude · Claude Code · Antigravity (IDE)  
 **Versionamento:** Git · GitHub
 
 ## 📂 Projetos em destaque
