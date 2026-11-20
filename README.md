@@ -50,6 +50,12 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 **Ferramentas de IA no desenvolvimento:** Claude · Claude Code · Antigravity (IDE)  
 **Versionamento:** Git · GitHub
 
+## 📚 O que estou aprendendo
+
+Estou estudando **MongoDB** por meio do curso oferecido pela MongoDB para estudantes.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## 📂 Projetos em destaque
 
 | Projeto | Descrição |
