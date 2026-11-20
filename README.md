@@ -45,6 +45,7 @@ Atuo na Eazytech desde **maio de 2026** e curso Análise e Desenvolvimento de Si
 
 | Projeto | Descrição |
 | --- | --- |
+| [Light Clean](https://light-clean.vercel.app/) | Landing page para limpeza profissional de estofados em Campinas, com apresentação dos serviços, comparação de resultados e pedido de orçamento pelo WhatsApp. [Abrir o site](https://light-clean.vercel.app/). |
 | [Projeto Faculdade](https://github.com/herbertfariasss/Projeto-Faculdade) | Plataforma acadêmica de cursos com HTML, CSS e JavaScript, catálogo, páginas responsivas e fluxo demonstrativo de cadastro e login. [Abrir o site](https://herbertfariasss.github.io/Projeto-Faculdade/). |
 | [Prontuário Farmacêutico](https://github.com/herbertfariasss/prontuario-farmaceutico) | Protótipo em Python e Streamlit com autenticação, persistência local e documentação da arquitetura. Em desenvolvimento. |
 | [Cadastro de Usuário](https://github.com/herbertfariasss/cadastro-de-usuario) | Formulário responsivo com validação de senha no navegador. [Abrir a demo](https://herbertfariasss.github.io/cadastro-de-usuario/). |
