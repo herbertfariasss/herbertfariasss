@@ -60,7 +60,7 @@ Estou estudando **MongoDB** por meio do curso oferecido pela MongoDB para estuda
 
 | Projeto | Descrição |
 | --- | --- |
-| [Light Clean — demo](https://site-limpeza-de-estofados-demo.vercel.app/) | Versão demonstrativa de uma landing page para higienização de estofados, com apresentação de serviços, comparação visual e jornada de solicitação de orçamento. [Abrir o site](https://site-limpeza-de-estofados-demo.vercel.app/). |
+| [Landing page de estofados — demo](https://site-limpeza-de-estofados-demo.vercel.app/) | Versão demonstrativa de uma landing page para higienização de estofados, com apresentação de serviços, comparação visual e jornada de solicitação de orçamento. [Abrir o site](https://site-limpeza-de-estofados-demo.vercel.app/). |
 | [Projeto Faculdade](https://github.com/herbertfariasss/Projeto-Faculdade) | Plataforma acadêmica de cursos com HTML, CSS e JavaScript, catálogo, páginas responsivas e fluxo demonstrativo de cadastro e login. [Abrir o site](https://herbertfariasss.github.io/Projeto-Faculdade/). |
 | [Prontuário Farmacêutico](https://github.com/herbertfariasss/prontuario-farmaceutico) | Protótipo em Python e Streamlit com autenticação, persistência local e documentação da arquitetura. Em desenvolvimento. |
 | [Cadastro de Usuário](https://github.com/herbertfariasss/cadastro-de-usuario) | Formulário responsivo com validação de senha no navegador. [Abrir a demo](https://herbertfariasss.github.io/cadastro-de-usuario/). |
