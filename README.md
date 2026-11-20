@@ -23,6 +23,14 @@
 
 Atuo na Eazytech desde **maio de 2026** e curso Análise e Desenvolvimento de Sistemas na **UNISUAM**.
 
+## 🔄 Projeto profissional em uso
+
+**Reconexão de instâncias de WhatsApp** — automação desenvolvida para uso no trabalho, integrada a uma API não oficial de WhatsApp.
+
+O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância desconecta ou volta a conectar e envia avisos ao grupo responsável. Quando é preciso reconectar, uma ação interativa solicita um novo **QR Code**; o fluxo consulta a API, envia o código ao grupo e oferece a opção de gerar outro caso necessário. Também trata falhas na identificação da instância ou na geração do QR Code.
+
+**Tecnologias:** n8n · Webhooks · APIs REST · JavaScript · Zaptos
+
 ## 🛠️ Tecnologias e ferramentas
 
 **Linguagens e web**
