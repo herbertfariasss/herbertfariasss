@@ -16,12 +16,26 @@
 
 ## 👨‍💻 O que faço
 
-- Trabalho com manutenção e melhorias em sistemas **CRM e ERP** e com automações de processos de negócio.
-- Crio fluxos em **n8n** e integro plataformas por **APIs REST** e **webhooks**.
-- Desenvolvo agentes com a **API da OpenAI** e uso **Claude**, **Claude Code**, **Codex** e a IDE **Antigravity** no desenvolvimento dos meus projetos, especialmente no orquestrador de agentes de IA por playbooks.
-- Trabalho com consultas e modelagem de dados em **PostgreSQL/Supabase**.
+- Atuo na manutenção e evolução de sistemas **CRM e ERP**, além de desenvolver automações de processos de negócio.
+- Crio fluxos em **n8n** e integro plataformas por **APIs REST**, **webhooks** e bancos de dados.
+- Desenvolvo soluções com **Python** e **JavaScript**, aplicando orientação a objetos, validação de regras e testes automatizados.
+- Construo agentes com a **API da OpenAI** e uso **Claude**, **Claude Code**, **Codex** e a IDE **Antigravity** no desenvolvimento dos meus projetos, incluindo orquestração de agentes por playbooks.
+- Trabalho com consultas, modelagem e integrações de dados em **PostgreSQL/Supabase**.
 
-Atuo na Eazytech desde **maio de 2026** e curso Análise e Desenvolvimento de Sistemas na **UNISUAM**.
+Atuo na Eazytech desde **maio de 2026**. Estou concluindo o **2º período de Análise e Desenvolvimento de Sistemas na UNISUAM**, com início do 3º período previsto para 2027 e formação estimada para 2028.
+
+## 🚨 Projeto de backend em destaque
+
+**[Integration Incident Monitor](https://github.com/herbertfariasss/integration-incident-monitor)** — API desenvolvida em Python para receber eventos fictícios por webhook, identificar falhas repetidas em integrações e acompanhar incidentes.
+
+- A classe `IncidentService` concentra as regras de abertura, atualização e encerramento de incidentes.
+- Três falhas únicas da mesma integração e do mesmo código de erro, dentro de 30 minutos, abrem um incidente.
+- Eventos duplicados são ignorados e novas falhas atualizam o incidente aberto.
+- Persistência em **SQLite**, contratos com **Pydantic** e rotas documentadas automaticamente pelo **FastAPI**.
+- **12 testes automatizados** para regras e rotas, com **87% de cobertura local** e execução contínua pelo **GitHub Actions**.
+- Extensão opcional de IA para resumir o incidente e sugerir verificações, sempre com aviso de conferência humana.
+
+**Tecnologias:** Python · FastAPI · SQLite · Pydantic · pytest · HTTPX · GitHub Actions
 
 ## 🔄 Projeto profissional em uso
 
@@ -40,6 +54,13 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
+**Backend e testes**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 **Dados, automação e IA**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,10 +77,15 @@ Estou estudando **MongoDB** por meio do curso oferecido pela MongoDB para estuda
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🎯 Foco profissional
+
+Quero evoluir como desenvolvedor **backend e full stack**, fortalecendo minha base em arquitetura de sistemas, APIs, bancos de dados, automação de processos e inteligência artificial aplicada a soluções empresariais.
+
 ## 📂 Projetos em destaque
 
 | Projeto | Descrição |
 | --- | --- |
+| [Integration Incident Monitor](https://github.com/herbertfariasss/integration-incident-monitor) | API em Python/FastAPI com SQLite, orientação a objetos, detecção de falhas repetidas, testes unitários e de rotas, integração contínua e extensão opcional de IA. |
 | [Landing page de estofados — demo](https://site-limpeza-de-estofados-demo.vercel.app/) | Versão demonstrativa de uma landing page para higienização de estofados, com apresentação de serviços, comparação visual e jornada de solicitação de orçamento. [Abrir o site](https://site-limpeza-de-estofados-demo.vercel.app/). |
 | [Projeto Faculdade](https://github.com/herbertfariasss/Projeto-Faculdade) | Plataforma acadêmica de cursos com HTML, CSS e JavaScript, catálogo, páginas responsivas e fluxo demonstrativo de cadastro e login. [Abrir o site](https://herbertfariasss.github.io/Projeto-Faculdade/). |
 | [Prontuário Farmacêutico](https://github.com/herbertfariasss/prontuario-farmaceutico) | Protótipo em Python e Streamlit com autenticação, persistência local e documentação da arquitetura. Em desenvolvimento. |
