@@ -104,11 +104,11 @@ Quero evoluir como desenvolvedor **backend e full stack**, fortalecendo minha ba
 | Projeto | Descrição |
 | --- | --- |
 | [Integration Incident Monitor](https://github.com/herbertfariasss/integration-incident-monitor) | API em Python/FastAPI com SQLite, orientação a objetos, detecção de falhas repetidas, testes unitários e de rotas, integração contínua e extensão opcional de IA. |
+| [Próximo Passo](https://github.com/herbertfariasss/proximo-passo-sanitizado) | Sistema web acadêmico da UNISUAM para organizar tarefas e objetivos pessoais e analisar decisões financeiras com IA. Utiliza PHP, MySQL, JavaScript e a API da Groq. |
 | [Landing page de estofados — demo](https://site-limpeza-de-estofados-demo.vercel.app/) | Versão demonstrativa de uma landing page para higienização de estofados, com apresentação de serviços, comparação visual e jornada de solicitação de orçamento. [Abrir o site](https://site-limpeza-de-estofados-demo.vercel.app/). |
 | [Projeto Faculdade](https://github.com/herbertfariasss/Projeto-Faculdade) | Plataforma acadêmica de cursos com HTML, CSS e JavaScript, catálogo, páginas responsivas e fluxo demonstrativo de cadastro e login. [Abrir o site](https://herbertfariasss.github.io/Projeto-Faculdade/). |
 | [Prontuário Farmacêutico](https://github.com/herbertfariasss/prontuario-farmaceutico) | Protótipo em Python e Streamlit com autenticação, persistência local e documentação da arquitetura. Em desenvolvimento. |
 | [Cadastro de Usuário](https://github.com/herbertfariasss/cadastro-de-usuario) | Formulário responsivo com validação de senha no navegador. [Abrir a demo](https://herbertfariasss.github.io/cadastro-de-usuario/). |
-| [Calculadora Python](https://github.com/herbertfariasss/calculadora-python-menu) | Calculadora de terminal com menu interativo, operações aritméticas, potência e fatorial. |
 
 Também estou desenvolvendo um **escritório virtual de agentes de IA** em pixel art, associado a uma experiência de orquestração por playbooks.
 
