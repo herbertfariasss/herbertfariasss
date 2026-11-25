@@ -75,7 +75,10 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-292D32?style=for-the-badge)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-345FBF?style=for-the-badge)
 
-**Versionamento:** Git · GitHub
+**Versionamento**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📚 O que estou aprendendo
 
