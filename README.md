@@ -68,7 +68,13 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Ferramentas de IA no desenvolvimento:** Claude · Claude Code · Codex · Antigravity (IDE)  
+**Ferramentas de IA no desenvolvimento**
+
+![Claude](https://img.shields.io/badge/Claude-9E4D2D?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-7D3621?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-292D32?style=for-the-badge)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-345FBF?style=for-the-badge)
+
 **Versionamento:** Git · GitHub
 
 ## 📚 O que estou aprendendo
