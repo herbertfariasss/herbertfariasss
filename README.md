@@ -17,9 +17,10 @@
 ## 👨‍💻 O que faço
 
 - Atuo na manutenção e evolução de sistemas **CRM e ERP**, além de desenvolver automações de processos de negócio.
-- Crio fluxos em **n8n** e integro plataformas por **APIs REST**, **webhooks** e bancos de dados.
+- Crio fluxos em **n8n** e integro plataformas por **APIs REST** e **webhooks**. Já desenvolvi integrações com **Google Sheets** e **Google Drive**.
 - Desenvolvo soluções com **Python** e **JavaScript**, aplicando orientação a objetos, validação de regras e testes automatizados.
-- Construo agentes com a **API da OpenAI** e uso **Claude**, **Claude Code**, **Codex** e a IDE **Antigravity** no desenvolvimento dos meus projetos, incluindo orquestração de agentes por playbooks.
+- Construo agentes com a **API da OpenAI** e já trabalhei com as APIs da **Groq** e do **Gemini**.
+- Uso **Claude**, **Claude Code**, **Codex** e a IDE **Antigravity** em projetos, incluindo orquestração de agentes por playbooks. Também já usei **GitHub Copilot**.
 - Trabalho com consultas, modelagem e integrações de dados em **PostgreSQL/Supabase**.
 
 Atuo na Eazytech desde **maio de 2026**. Estou concluindo o **2º período de Análise e Desenvolvimento de Sistemas na UNISUAM**, com início do 3º período previsto para 2027 e formação estimada para 2028.
@@ -67,6 +68,13 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-B83D23?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-345FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Integrações com Google Workspace**
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-137333?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-1666CB?style=for-the-badge&logo=googledrive&logoColor=white)
 
 **Ferramentas de IA no desenvolvimento**
 
@@ -74,6 +82,7 @@ O fluxo em **n8n** recebe eventos por webhook, identifica quando uma instância 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-7D3621?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-292D32?style=for-the-badge)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-345FBF?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Versionamento**
 
